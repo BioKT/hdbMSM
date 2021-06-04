@@ -5,7 +5,7 @@ Requirements to run the notebooks:
 
 	1- Python3 (and basic packages: h5py, numpy, matplotlib ...)
 
-	2- PyEMMA software package (at least 2.5.7 version)
+	2- PyEMMA software package (2.5.7 version)
 
 	3- HDBSCAN
 
