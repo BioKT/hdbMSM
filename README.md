@@ -1,6 +1,6 @@
 # hdbMSM
 Contains notebooks used to carry out all the calculations related to the paper 
-'Markov state models from hierarchical density based assignment', by Ion
+*Markov state models from hierarchical density based assignment*, by Ion
 Mitxelena, Xabier López and David De Sancho 
 ([BioKimika Teorikoa laboratory](https://sites.google.com/view/biokt/home), 
 UPV-EHU and [DIPC](http://dipc.ehu.es/)). 
