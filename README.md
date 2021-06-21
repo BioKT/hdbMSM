@@ -9,6 +9,7 @@ You can check
 the preprint for the paper at [BioRXiv](https://doi.org/10.1101/2021.05.13.444064).
 
 All the trajectories necessary to do the analyses are included [here](https://osf.io/2ujtg/?view_only=11824fcadefa4987bfb5a5dd64b6ad6f)
+
 Requirements to run the notebooks:
 
 1. Python3 (and basic packages: h5py, numpy, matplotlib ...)
